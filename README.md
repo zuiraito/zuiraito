@@ -1,6 +1,6 @@
 # Hi  👋
 ## Website
-[rangi.dev](https://www.rangi.dev)
+[rangi.dev](https://rangi.dev)
 ## Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuiraito)](https://github.com/anuraghazra/github-readme-stats)
 <!--
