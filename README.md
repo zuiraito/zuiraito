@@ -1,5 +1,7 @@
-## Hi  👋
-
+# Hi  👋
+## Website
+[rangi.dev](rangi.dev)
+## Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zuiraito)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **zuiraito/zuiraito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
